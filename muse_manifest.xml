@@ -1,0 +1,69 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="naufalfadhillah.github.io" resolutions="1x" timestamp="1526111790455">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="174793581" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4085606363" ref="index"/>
+    <file name="index.css" crc="4293672157" ref="index"/>
+    <file name="nomq_index.css" crc="359670603" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u97-4.png" crc="3999601241" ref="index"/>
+    <file name="u438-4.png" crc="129949986" ref="index"/>
+    <file name="u444-8.png" crc="412486300" ref="index"/>
+    <file name="1525946787685.jpg" crc="297714223" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1526024352073.jpg" crc="4071084172" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_mg_5110.jpg" crc="58646146" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1526024347395.jpg" crc="390187981" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1526024352978.jpg" crc="82311221" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="raw_alma.jpg" crc="3770404204" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u462-4.png" crc="129949986" ref="index"/>
+    <file name="u453-8.png" crc="22177295" ref="index"/>
+    <file name="1526024350427.jpg" crc="4152654361" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1526024354338.jpg" crc="455141679" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="_mg_5113.jpg" crc="4007342131" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u128-4.png" crc="3898446659" ref="index"/>
+    <file name="u152-4.png" crc="392119749" ref="index"/>
+    <file name="u146-4.png" crc="352204548" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4059560170" seo="true" mt="1526111501062" redirect="true"/>
+</manifest>
