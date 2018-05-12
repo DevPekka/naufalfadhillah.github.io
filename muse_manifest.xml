@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="naufalfadhillah.github.io" resolutions="1x" timestamp="1526114434210">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="naufalfadhillah.github.io" resolutions="1x" timestamp="1526115399787">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="master_a-master.css" crc="3931927979" ref="index"/>
-    <file name="nomq_preview_master_a-master.css" crc="156359852" ref="index"/>
-    <file name="index.css" crc="4138216434" ref="index"/>
+    <file name="master_a-master.css" crc="3992947787" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="4128520999" ref="index"/>
+    <file name="index.css" crc="4039643425" ref="index"/>
     <file name="nomq_index.css" crc="390223926" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -32,15 +32,14 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="1526024352073.jpg" crc="4071084172" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_mg_5110.jpg" crc="58646146" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -54,6 +53,8 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="1526024352978.jpg" crc="82311221" ref="index">
       <caption webpage="index" alt=""/>
@@ -61,8 +62,12 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="raw_alma.jpg" crc="3770404204" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -77,16 +82,13 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="1526024354338.jpg" crc="116442332" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="_mg_5113.jpg" crc="4007342131" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -96,10 +98,29 @@
     <file name="u128-4.png" crc="3898446659" ref="index"/>
     <file name="u152-4.png" crc="392119749" ref="index"/>
     <file name="u146-4.png" crc="352204548" ref="index"/>
-    <file name="u611-4.png" crc="3803153501" ref="index"/>
+    <file name="u611-4.png" crc="84616433" ref="index"/>
     <file name="u642-4.png" crc="4030659406" ref="index"/>
     <file name="u668-4.png" crc="4236872703" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="ramsi.jpg" crc="58646146" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ranggafeb.jpg" crc="4007342131" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1176-4.png" crc="84616433" ref="index"/>
   </folder>
-  <file name="index.html" crc="3881699035" seo="true" mt="1526114365761" redirect="true"/>
+  <file name="index.html" crc="116109971" seo="true" mt="1526115376048" redirect="true"/>
 </manifest>
