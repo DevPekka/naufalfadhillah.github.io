@@ -1,9 +1,9 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="naufalfadhillah.github.io" resolutions="1x" timestamp="1526114105787">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="naufalfadhillah.github.io" resolutions="1x" timestamp="1526114434210">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="master_a-master.css" crc="3931927979" ref="index"/>
     <file name="nomq_preview_master_a-master.css" crc="156359852" ref="index"/>
-    <file name="index.css" crc="3808595030" ref="index"/>
+    <file name="index.css" crc="4138216434" ref="index"/>
     <file name="nomq_index.css" crc="390223926" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -101,5 +101,5 @@
     <file name="u668-4.png" crc="4236872703" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="4025281911" seo="true" mt="1526113791762" redirect="true"/>
+  <file name="index.html" crc="3881699035" seo="true" mt="1526114365761" redirect="true"/>
 </manifest>
